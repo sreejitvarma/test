@@ -9,7 +9,7 @@ graph = {
 }
 
 def simple_traverse(graph, start):
-    """Simple graph traversal - great for debugging!"""
+    # """Simple graph traversal - great for debugging!"""
     visited = []
     to_visit = [start]
     
